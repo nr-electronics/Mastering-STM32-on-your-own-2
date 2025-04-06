@@ -1,0 +1,19 @@
+Dependencies for Project 'TEST', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\main.C)(0x67F1471B)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IC:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include-D__UVISION_VERSION="535" -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (stm32f10x.h)(0x638467A8)
+I (core_cm3.h)(0x638467A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602569CE)
+I (cmsis_version.h)(0x638467A8)
+I (cmsis_compiler.h)(0x638467A8)
+I (cmsis_armcc.h)(0x638467A8)
+I (system_stm32f10x.h)(0x638467A8)
+F (.\system_stm32f10x.c)(0x638467A8)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections-IC:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include-D__UVISION_VERSION="535" -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (stm32f10x.h)(0x638467A8)
+I (core_cm3.h)(0x638467A8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x602569CE)
+I (cmsis_version.h)(0x638467A8)
+I (cmsis_compiler.h)(0x638467A8)
+I (cmsis_armcc.h)(0x638467A8)
+I (system_stm32f10x.h)(0x638467A8)
+F (.\startup_stm32f10x_md.s)(0x638467A8)(--cpu Cortex-M3 -g --apcs=interwork -IC:\Arm\Packs\Keil\STM32F1xx_DFP\2.4.0\Device\Include--pd "__UVISION_VERSION SETA 535" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
